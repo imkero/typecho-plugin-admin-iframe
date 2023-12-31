@@ -11,12 +11,12 @@ if (!defined('__TYPECHO_ROOT_DIR__')) {
 }
 
 /**
- * %description%
+ * 
  *
- * @package %name%
- * @author %author%
+ * @package typecho-plugin-admin-iframe
+ * @author imkero
  * @version %version%
- * @link %link%
+ * @link https://github.com/imkero/typecho-plugin-admin-iframe
  */
 class Plugin implements PluginInterface
 {
